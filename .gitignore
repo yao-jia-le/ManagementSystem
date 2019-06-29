@@ -1,0 +1,12 @@
+
+*.class
+*.MF
+*.prefs
+EurekaServer/.classpath
+EurekaServer/.project
+WebView/.classpath
+WebView/.project
+WebView/target/*
+EurekaServer/target/classes/application.yml
+EurekaServer/target/classes/META-INF/maven/com.yao.EurekaServer/EurekaServer/pom.properties
+EurekaServer/target/classes/META-INF/maven/com.yao.EurekaServer/EurekaServer/pom.xml
